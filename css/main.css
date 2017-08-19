@@ -1,0 +1,20 @@
+body {
+  background-color: lightgrey;
+}
+main {
+  min-height: 100%
+}
+.navbar {
+  border-radius: 0;
+}
+.box {
+  width: 10%;
+  padding-top: 10%;
+  background-color: grey;
+  float: left;
+  border: 0.001px solid white;
+  transition: 1s background-color;
+}
+button {
+  color: white;
+}
